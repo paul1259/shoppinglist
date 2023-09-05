@@ -1,0 +1,15 @@
+body { background-color: lightblue;}
+.mainhead {color: azure;
+text-align: center;}
+.tb1 {
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+.eee1 {
+    background-color: blue;
+    border: 1px solid black;
+}
+.tb2 {
+    width: 100%;
+    color: azure;
+}
